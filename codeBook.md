@@ -1,6 +1,6 @@
 # Code Book - Project_week4_DataCleaning 
 
-================================================================ 00testCoursera Coursera Course Getting and Cleaning Data by John Hophins University 04/28/2017
+================================================================ 00testCoursera Coursera Course Getting and Cleaning Data by John Hophins University 04/29/2017
 
 ================================================================
 
